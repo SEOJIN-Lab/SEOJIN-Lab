@@ -8,7 +8,7 @@
 - [Intern] ```Korea National Assembly Library``` Data Convergence Analysis Department (2018.09 ~ 2019.02) (2021.03 ~ing) 
 
 ### 🔭 **Extracurricular Activities**
-- Challenge Semester ```Ewha W. Univ.``` ; Project Title: Taking one step as a data scientist
+- Challenge Semester ```Ewha W. Univ.``` 
 
 ### 🖥 **Project**
 - Predicting the top YouTube video categories in 2020 (2019.09 ~ 2019.12)
