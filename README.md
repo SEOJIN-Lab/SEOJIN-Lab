@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEOJIN-Lab&count_bg=%230079E5&title_bg=%23555555&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🌱 I’m currently studying ```Classification```, ```Demension Reduction```,```GAN``` and 🪵 interested in ```Deep Learning```, ```NLP```, ```Computer Vision```, ```Recommandation System```
+🌱 I’m currently studying ```Demension Reduction```,```GAN``` and 🪵 interested in ```Deep Learning```, ```NLP```, ```Computer Vision```, ```Recommandation System```
 
 ### 🌏 **Experience** 
 - [Intern] ```Korea National Assembly Library``` Data Convergence Analysis Department (2018.09 ~ 2019.02) (2021.03 ~ing) 
