@@ -13,7 +13,6 @@
 ### 🖥 **Project**
 - Predicting the top YouTube video categories in 2020 (2019.09 ~ 2019.12)
 - Cultural Tourism Big Data Analysis Competition (2020.07 ~ 2020.08)
-- Hyundai Motor Company Data Analysis Intern Competition Hackathon (2021.04 ~ing)
 
 ### 📩 **Contacts**
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=github&link=https://data99analytics-seojin.tistory.com/)](https://data99analytics-seojin.tistory.com/)
