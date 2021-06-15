@@ -5,7 +5,8 @@
 🌱 I’m currently studying ```Text Analysis```, ```Recommandation System``` and 🪵 interested in ```Deep Learning```, ```NLP```, ```Computer Vision```, ```Recommandation System```
 
 ### 🌏 **Experience** 
-- [Intern] ```Korea National Assembly Library``` Data Convergence Analysis Department (2018.09 ~ 2019.02) (2021.03 ~ing) 
+- [Intern] ```Korea National Assembly Library``` Data Convergence Analysis Department (2018.09 ~ 2019.02) (2021.03 ~ 2021.06) 
+- [Intern] ```Data Marketing Korea``` AI Platform Planning Team (2021.07 ~ 2021.08)
 
 ### 🔭 **Extracurricular Activities**
 - Challenge Semester ```Ewha W. Univ.``` 
