@@ -16,6 +16,7 @@
 ### 🖥 **Project**
 - Predicting the top YouTube video categories in 2020 (2019.09 ~ 2019.12)
 - Cultural Tourism Big Data Analysis Competition (2020.07 ~ 2020.08)
+- Automating garbage data processing (2021.07 ~ 2021.08)
 - Influencer Recommendation System (2021.07 ~ 2021.08)
 
 ### 📩 **Contacts**
