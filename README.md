@@ -7,18 +7,21 @@
 ### 🌏 **Experience** 
 - [Intern] ```Korea National Assembly Library``` Data Convergence Analysis Department (2018.09 ~ 2019.02) (2021.03 ~ 2021.06) 
 - [Intern] ```Data Marketing Korea``` AI Platform Planning Team ```[AI Part]``` (2021.07 ~ 2021.08)
+- [Undergraduate Researcher] ```Ewha W. Univ.``` Institute of Mathematical Sciences ```Third Research Team``` (2021.09 ~ present)
 
 ### 🔭 **Extracurricular Activities**
-- Challenge Semester ```Ewha W. Univ.``` 
+- Challenge Semester ```Ewha W. Univ.``` (2021.01 ~ 2021.06)
+- Google ML Bootcamp (2021.08 ~ present)
 
 ### 🖥 **Project**
 - Predicting the top YouTube video categories in 2020 (2019.09 ~ 2019.12)
 - Cultural Tourism Big Data Analysis Competition (2020.07 ~ 2020.08)
+- Influencer Recommendation System (2021.07 ~ 2021.08)
 
 ### 📩 **Contacts**
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=github&link=https://data99analytics-seojin.tistory.com/)](https://data99analytics-seojin.tistory.com/)
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCOnajE5U5WRA0i4vczyDNYw)](https://www.youtube.com/channel/UCOnajE5U5WRA0i4vczyDNYw)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=github&link=https://www.notion.so/Yulia-04985f8f7d4c43539972e05a8e8b6182)](https://www.notion.so/Yulia-04985f8f7d4c43539972e05a8e8b6182)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsj131012@gmail.com)](mailto:jsj131012@gmail.com)
+  
 
 
 <!--
