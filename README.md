@@ -22,6 +22,7 @@
 ### 📩 **Contacts**
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=github&link=https://www.notion.so/Yulia-04985f8f7d4c43539972e05a8e8b6182)](https://www.notion.so/Yulia-04985f8f7d4c43539972e05a8e8b6182)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsj131012@gmail.com)](mailto:jsj131012@gmail.com)
+    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seojin-jang-931203222/)](https://www.linkedin.com/in/seojin-jang-931203222/)
   
 
 
