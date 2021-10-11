@@ -12,6 +12,7 @@
 ### 🔭 **Extracurricular Activities**
 - Challenge Semester ```Ewha W. Univ.``` (2021.01 ~ 2021.06)
 - Google ML Bootcamp (2021.08 ~ present)
+- GDSC Ewha member(2021.09 ~ present)
 
 ### 🖥 **Project**
 - Predicting the top YouTube video categories in 2020 (2019.09 ~ 2019.12)
