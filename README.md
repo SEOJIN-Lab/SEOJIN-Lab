@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEOJIN-Lab&count_bg=%230079E5&title_bg=%23555555&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-🌱 I’m currently studying ```Deep Learning``` and 🪵 interested in ```NLP```, ```Recommandation System```, ```Computer Vision```
+🌱 I’m currently studying ```Deep Learning``` and 🪵 interested in ```Recommandation System```, ```Computer Vision```
 
 ### 🌏 **Experience** 
 - [Intern] ```Korea National Assembly Library``` Data Convergence Analysis Department (2018.09 ~ 2019.02) (2021.03 ~ 2021.06) 
@@ -14,18 +14,12 @@
 - Google ML Bootcamp (2021.08 ~ present)
 - GDSC Ewha member(2021.09 ~ present)
 
-### 🖥 **Project**
-- Predicting the top YouTube video categories in 2020 (2019.09 ~ 2019.12)
-- Cultural Tourism Big Data Analysis Competition (2020.07 ~ 2020.08)
-- Automating garbage data processing (2021.07 ~ 2021.08)
-- Influencer Recommendation System (2021.07 ~ 2021.08)
-
 ### 📩 **Contacts**
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=github&link=https://data99analytics-seojin.tistory.com/)](https://data99analytics-seojin.tistory.com/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsj131012@gmail.com)](mailto:jsj131012@gmail.com)
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seojin-jang-931203222/)](https://www.linkedin.com/in/seojin-jang-931203222/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsj131012@gmail.com)](mailto:jsj131012@gmail.com)
+    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seojin-jang-931203222/)](https://www.linkedin.com/in/seojin-jang-931203222/)
+    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-00A98F?style=flat-square&logo=github&link=https://data99analytics-seojin.tistory.com/)](https://data99analytics-seojin.tistory.com/)
   
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOJIN-Lab&show_icons=true&theme=default)
 
 <!--
 **SEOJIN-Lab/SEOJIN-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
