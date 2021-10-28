@@ -1,6 +1,6 @@
 # Hi there I'm Seojin Jang 👋🏻
 
-🌱 I’m currently studying ```Deep Learning``` and 🪵 interested in ```Recommandation System```, ```Computer Vision```
+👾 I’m currently studying ```Deep Learning``` and 🔎 interested in ```Web``` & ```Android```
 
 ### 🌏 **Experience** 
 - [Intern] ```Korea National Assembly Library``` Data Convergence Analysis Department (2018.09 ~ 2019.02) (2021.03 ~ 2021.06) 
