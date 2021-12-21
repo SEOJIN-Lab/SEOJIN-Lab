@@ -9,7 +9,7 @@
 
 ### 🔭 **Extracurricular Activities**
 - Challenge Semester ```Ewha W. Univ.``` (2021.01 ~ 2021.06)
-- Google ML Bootcamp (2021.08 ~ present)
+- Google ML Bootcamp (2021.08 ~ 2021.12)
 - GDSC Ewha member(2021.09 ~ present)
 
 ### 📩 **Contacts**
