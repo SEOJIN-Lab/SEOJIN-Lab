@@ -14,7 +14,7 @@
 ### 📩 **Contacts**
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsj131012@gmail.com)](mailto:jsj131012@gmail.com)
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seojin-jang-931203222/)](https://www.linkedin.com/in/seojin-jang-931203222/)
-    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-00A98F?style=flat-square&logo=github&link=https://data99analytics-seojin.tistory.com/)](https://data99analytics-seojin.tistory.com/)
+    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-00d6ae?style=flat-square&logo=github&link=https://velog.io/@seo0ojin)](https://velog.io/@seo0ojin)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOJIN-Lab&show_icons=true&theme=default)
 
