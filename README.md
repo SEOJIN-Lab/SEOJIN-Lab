@@ -4,7 +4,7 @@
 ### 🌏 **Experience**  
 - [Part time] ```Korea National Assembly Library``` Data Convergence Analysis Department (2018.09 ~ 2019.02) (2021.03 ~ 2021.06)
 - [Intern] ```Data Marketing Korea``` AI Platform Planning Team ```[AI Part]``` (2021.07 ~ 2021.08)
-- [Undergraduate Researcher] ```Ewha W. Univ.``` Institute of Mathematical Sciences ```Third Research Team``` (2021.09 ~ present)
+- [Undergraduate Researcher] ```Ewha W. Univ.``` Institute of Mathematical Sciences ```Third Research Team``` (2021.09 ~ 2022.02)
 
 ### 🔭 **Extracurricular Activities**
 - Challenge Semester ```Ewha W. Univ.``` (2021.01 ~ 2021.06)
