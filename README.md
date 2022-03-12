@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=78b369&height=200&text=🍃%20seo0ojin%20🍃&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=78b369&height=200&text=🍃%20seo0ojin%20🍃&fontSize=50&animation=fadeIn)
 
-
-## Hi there I'm Seojin Jang 👋🏻
+## Hi there I'm Seojin Jang
 
 👾 I’m currently studying ```Computer Vision``` and 🔎 interested in ```MLOps``` 
 ### 🌏 **Experience**  
