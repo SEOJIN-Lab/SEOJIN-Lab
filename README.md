@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=78b369&height=200&text=🍃%20seo0ojin%20🍃&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=007fff&height=220&text=🌊%20seo0ojin%20🐋&fontSize=53&animation=fadeIn)
 
 ## Hi there I'm Seojin Jang
 
@@ -18,7 +18,7 @@
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seojin-jang-931203222/)](https://www.linkedin.com/in/seojin-jang-931203222/)
     [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-00d6ae?style=flat-square&logo=github&link=https://velog.io/@seo0ojin)](https://velog.io/@seo0ojin)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOJIN-Lab&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOJIN-Lab&show_icons=true&theme=default)
 
 <!--
 **SEOJIN-Lab/SEOJIN-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
