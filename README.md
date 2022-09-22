@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEOJIN-Lab&count_bg=%236797E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-👾 I’m currently studying ```Computer Vision``` and 🔎 interested in ```MLOps``` 
+👾 I’m currently studying ```Data Structure & Algoritms``` and 🔎 interested in ```Data Analysis``` 
 ### 🌏 **Experience**  
 - [Part time] ```Korea National Assembly Library``` Data Convergence Analysis Department (2018.09 ~ 2019.02) (2021.03 ~ 2021.06)
 - [Intern] ```Data Marketing Korea``` AI Platform Planning Team ```[AI Part]``` (2021.07 ~ 2021.08)
@@ -11,7 +11,8 @@
 ### 🔭 **Extracurricular Activities**
 - Challenge Semester ```Ewha W. Univ.``` (2021.01 ~ 2021.06)
 - Google ML Bootcamp (2021.08 ~ 2021.12)
-- GDSC Ewha member(2021.09 ~ present)
+- GDSC Ewha member(2021.09 ~ 2022.08)
+- K-Digital Trainig ```AI Service Development``` (2022.01 ~ 2022.06)
 
 ### 📩 **Contacts**
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsj131012@gmail.com)](mailto:jsj131012@gmail.com)
