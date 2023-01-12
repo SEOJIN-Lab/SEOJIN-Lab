@@ -19,7 +19,6 @@
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seojin-jang-931203222/)](https://www.linkedin.com/in/seojin-jang-931203222/)
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOJIN-Lab&show_icons=true&theme=default)
 
 <!--
 **SEOJIN-Lab/SEOJIN-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
